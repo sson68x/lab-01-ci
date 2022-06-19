@@ -14,8 +14,8 @@ Created and deployed a web practice server using CI and DC and got used to the g
 
 ## Deployments
 
-[Dev Deployment](https://simon-server-deploy-dev.herokuapp.com/)
-[Main Deployment](https://simon-server-deploy-prod.herokuapp.com/)
+- [Dev Deployment](https://simon-server-deploy-dev.herokuapp.com/)
+- [Main Deployment](https://simon-server-deploy-prod.herokuapp.com/)
 
 ## Class Demo
 
