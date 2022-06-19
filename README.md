@@ -2,7 +2,7 @@
 
 ## Continuous Integration (CI)
 
-Deploying staging environment AND production environment to Heroku
+Deploying staging environment AND production environment to Heroku.
 
 ## Authour
 
